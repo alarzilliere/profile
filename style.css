@@ -1,0 +1,72 @@
+
+body {
+  background-color: #EBEBEB;
+  font-family: 'Roboto', sans-serif;
+  color: #454545;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  color: #70A3C4;
+  text-decoration: none;
+}
+
+#profil-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+  box-shadow: 2px 2px 2px #EBEBEB;
+}
+
+
+.container, .header, .footer {
+  width: 600px;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 3px;
+  background-color: white;
+  box-shadow: inset 2px 2px 2px #e0dede;
+
+}
+
+.card {
+  display: flex;
+  margin-bottom: 20px;
+  padding: 5px;
+  color: #454545;
+  background-color: #f7f7f7;
+  box-shadow: 2px 2px 2px #EBEBEB;
+  border-radius: 15px 3px 3px 15px;
+}
+
+.card-picture {
+  border-radius: 15px 3px 3px 15px
+}
+
+
+
+
+
+
